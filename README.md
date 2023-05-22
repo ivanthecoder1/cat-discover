@@ -1,6 +1,7 @@
 *Cat Discover*
 
-**Ivan Zhang**
+*Ivan Zhang*
+
 **Discover cats with varying species, life span, and origins. You can filter with a ban list.**
 
 
